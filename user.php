@@ -26,7 +26,7 @@
         }
     }
 
-    echo "Yassine want to add a new file "
+    echo "Yassine want"
 
    
     
